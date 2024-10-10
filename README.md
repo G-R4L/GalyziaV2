@@ -1,7 +1,7 @@
 # GalyziaV2
 
 
-Testing tools 
+Testing tools imnewbie
 (lanjutan dari yang pertama)
 
 How to use
