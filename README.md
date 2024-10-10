@@ -3,6 +3,7 @@
 
 Testing tools imnewbie 
 
+working in windows 
 
 (lanjutan dari yang pertama dan ini menggunakan python jadi harus memiliki python)
 
