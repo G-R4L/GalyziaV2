@@ -1,16 +1,16 @@
 # GalyziaV2
 ![Galyzia](GalyziaV2/image/galyzia.png)
 
-Testing tools imnewbie 
+Testing tools made be me 
 
-working in windows 
-
+Working in windows 
+(berfungsi dan dijalankan diwindows)
 (lanjutan dari yang pertama dan ini menggunakan python jadi harus memiliki python)
 
 How to use
 
 
-download the zipfile and open the GalyziaV2.bat or you can use cmd pront 
+Download the ZIP file and extract it. Then, run the Galyzia.bat file, or you can open it via Command Prompt
+Number 5 in the tools to join my discord server :))
 
-number 5 in the tools to join my discord server :))
-ty
+Ty 
