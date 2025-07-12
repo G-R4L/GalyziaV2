@@ -1,0 +1,8 @@
+tk-tools 
+aiohttp
+asyncio
+cloudscraper
+pip install playwright
+playwright install
+
+# install these all
