@@ -1,6 +1,6 @@
 # GalyziaV2
 ### Galyzia 
-![Galyzia](images/galyzia.png)
+![Galyzia](GalyziaV2/image/galyzia.png)
 
 Testing tools imnewbie 
 
