@@ -1,16 +1,14 @@
-# GalyziaV2
+# GalyziaV2  
 ![Galyzia](GalyziaV2/image/galyzia.png)
 
-Testing tools made be me 
+A testing tools collection made by me.  
+Designed to work on **Windows**.  
+(This is a continuation of the first version, now using **Python**, so make sure Python is installed.)
 
-Working in windows 
-(berfungsi dan dijalankan diwindows)
-(lanjutan dari yang pertama dan ini menggunakan python jadi harus memiliki python)
+## How to Use
 
-How to use
+1. Download the ZIP file and extract it.  
+2. Run the `Galyzia.bat` file, or open it via Command Prompt.  
+3. Option **5** in the tools menu lets you join my Discord server. 😄
 
-
-Download the ZIP file and extract it. Then, run the Galyzia.bat file, or you can open it via Command Prompt
-Number 5 in the tools to join my discord server :))
-
-Ty 
+Thanks for using it! 🙏
