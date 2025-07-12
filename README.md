@@ -5,7 +5,7 @@ A testing tools collection made by me.
 Designed to work on **Windows**.  
 (This is a continuation of the first version, now using **Python**, so make sure Python is installed.)
 
-🔧 **Catatan**:  
+🔧 **Catatan** 🇮🇩:  
 Tools ini masih dalam tahap **uji coba dan pengembangan pribadi**.  
 Fitur-fitur akan terus diperbarui dan disempurnakan.
 
