@@ -16,7 +16,7 @@ echo  │  2. IP Tracker                                  │
 echo  │  3. Port Scanner                                │
 echo  │  4. Website Pinger                              │
 echo  │  5. Http-flood                                  │
-echo  │  6. Shahin-V2                                    │
+echo  │  6. Shahin-V2                                   │
 echo  │  7. Back to Main Menu                           │
 echo  ╰──────────────────────────────────────────────────╯
 echo.
