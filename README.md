@@ -5,7 +5,7 @@ A testing tools collection made by me.
 Designed to work on **Windows**.  
 (This is a continuation of the first version, now using **Python**, so make sure Python is installed.)
 
-GalyziaV1 (Versi pertamanya : https://github.com/zeff13/Galyzia
+GalyziaV1 (Versi pertamanya) : https://github.com/zeff13/Galyzia
 
 🔧 **Catatan** 🇮🇩:  
 Tools ini masih dalam tahap **uji coba dan pengembangan pribadi**.  
