@@ -7,7 +7,7 @@ Designed to work on **Windows**.
 
 GalyziaV1 (Versi pertamanya) : https://github.com/zeff13/Galyzia
 
-GalyziaV3 ( New realease )
+GalyziaV3 ( ✅ ) : sudah ada diliris ya
 
 🔧 **Catatan** 🇮🇩:  
 Tools ini masih dalam tahap **uji coba dan pengembangan pribadi**.  
